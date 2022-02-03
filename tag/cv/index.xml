@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>cv | Errol Mamani</title>
+    <link>https://errolmamani.github.io/tag/cv/</link>
+      <atom:link href="https://errolmamani.github.io/tag/cv/index.xml" rel="self" type="application/rss+xml" />
+    <description>cv</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://errolmamani.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>cv</title>
+      <link>https://errolmamani.github.io/tag/cv/</link>
+    </image>
+    
+    <item>
+      <title>AMR using Deep Learning Approaches.</title>
+      <link>https://errolmamani.github.io/project/external-project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://errolmamani.github.io/project/external-project/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
